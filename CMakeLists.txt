@@ -21,6 +21,7 @@ find_package(pcl_conversions REQUIRED)
 find_package(image_transport REQUIRED)
 find_package(tf2 REQUIRED)
 find_package(tf2_ros REQUIRED)
+find_package(stonefish_vendor REQUIRED)
 find_package(Stonefish REQUIRED 1.6.0)
 
 # messages
